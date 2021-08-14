@@ -1,0 +1,14 @@
+canvas.particles-js-canvas-el{
+    position: absolute;
+    height: 100% !important;
+    width: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: -1000;
+    margin: 0px;
+}
+body{
+    background-color: rgba(20, 15, 15, 0.795);
+
+}
